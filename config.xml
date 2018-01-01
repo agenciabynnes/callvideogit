@@ -24,6 +24,7 @@
     <plugin name="cordova-plugin-vuforia" spec="3.2.0"/>
     <plugin name="cordova-plugin-vuforia-sdk" spec="1.0.0"/>
     <plugin name="cordova-plugin-whitelist" spec="1.2.2"/>
+    <plugin name="cordova-plugin-android-permissions" spec="^1.0.0"/>
 
 
 <platform name="android" >
